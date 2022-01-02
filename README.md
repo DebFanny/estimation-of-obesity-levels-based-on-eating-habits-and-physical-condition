@@ -1,5 +1,5 @@
 # estimation-of-obesity-levels-based-on-eating-habits-and-physical-condition
-##final project in python for data analysis for estimation of obesity levels based on eating habits and physical condition
+final project in python for data analysis : estimation of obesity levels based on eating habits and physical condition
 
 The dataset contains 16 variables.
 15 features:
