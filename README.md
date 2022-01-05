@@ -24,3 +24,8 @@ Overweight_Level_II
 Obesity_Type_I
 Obesity_Type_II
 Obesity_Type_III
+
+
+
+
+This is the project of Louis COUSIN and Fanny DEBORD of the groups DIA3. 
